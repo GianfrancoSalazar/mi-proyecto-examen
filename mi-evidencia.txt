@@ -1,1 +1,2 @@
 He aprendido que Git es un sistema de control de versiones que permite gestionar los cambios en el código de manera colaborativa.
+Modificación desde la rama de prueba.
